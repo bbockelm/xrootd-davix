@@ -1,0 +1,12 @@
+.ninja*
+CMakeCache.txt
+CMakeFiles
+Makefile
+build.ninja
+cmake
+cmake_install.cmake
+install_manifest.txt
+libXrdDavix*
+release_dir
+rules.ninja
+src/.*.swp
